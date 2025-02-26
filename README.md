@@ -2,8 +2,8 @@
 
 <!-- Nicks12jp/Nicks12jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 Atualmente estou procurando um estágio
-- 🌱 Estou estudando sobre Java, javascript e C#
+- 🔭 !Estou procurando um estágio!
+- 🌱 Estou estudando sobre Java, javascript e C# fora da faculdade.
 
 </br>
 
