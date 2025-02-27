@@ -12,7 +12,9 @@
   
 #
 
-<h3 align="left">-My Stack-</h3>
+  <img align="right" alt="" height="150px" src="./src/Hello World.gif">
+  
+<h3 align="left">-🚀My Stack-</h3>
   <div align="left">
   <img align="center" alt="Nicks12jp-JAVA" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img width="8"/>
@@ -27,8 +29,7 @@
   <img align="center" alt="Nicks12jp-C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   </div>
   
-
-<h3 alagin="left"> Connect with me!</h3>
+<h3 alagin="left"> 📬Connect with me!</h3>
 
   [![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5511975876596)
   [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=nicks12jp@gmail.com.com&su=Assunto%20do%20Email&body=Olá,%20quero%20entrar%20em%20contato!)
@@ -37,7 +38,7 @@
 #
 
 <div style="text-align: center;" align="center">
-  <h3>--- GitHub Stats ---</h3>
+  <h3>--- 📊GitHub Stats ---</h3>
   <br>
   
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nicks12jp&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
