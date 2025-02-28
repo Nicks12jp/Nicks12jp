@@ -7,7 +7,7 @@
 
 </br>
 
-<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de São Paulo(UNICID), atualmente estou no 3º semestre e procuro sempre atualizar meus conhecimentos na aréa, gosto muito de programação e pretendo fazer mais cursos na área futuramente..
+<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de São Paulo(UNICID), atualmente estou no 3º semestre e procuro sempre atualizar meus conhecimentos na aréa, gosto muito de programação e pretendo fazer mais cursos na área futuramente.
 
   
 #
@@ -53,4 +53,24 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicks12jp/Nicks12jp/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nicks12jp/Nicks12jp/output/github-contribution-grid-snake.svg">
 </picture>
-  
+
+  <style>
+  @media (max-width: 768px) {
+    div[align="center"] {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+    
+    h3 {
+      text-align: center;
+    }
+  }
+</style>
+
