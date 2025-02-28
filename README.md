@@ -2,12 +2,12 @@
 
 <!-- Nicks12jp/Nicks12jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 !Estou procurando um estágio!
-- 🌱 Estou estudando sobre Java, javascript e C# fora da faculdade.
+- 🔭 Estou procurando um estágio
+- 🌱 Estou estudando sobre **Java, javascript e C#** fora da faculdade.
 
 </br>
 
-<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de São Paulo(UNICID), atualmente estou no 3º semestre e procuro sempre atualizar meu conhecimentos na aréa, gosto muito de programação e pretendo fazer mais cursos na aréa futuramente.
+<p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de São Paulo(UNICID), atualmente estou no 3º semestre e procuro sempre atualizar meus conhecimentos na aréa, gosto muito de programação e pretendo fazer mais cursos na área futuramente..
 
   
 #
