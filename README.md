@@ -53,24 +53,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicks12jp/Nicks12jp/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nicks12jp/Nicks12jp/output/github-contribution-grid-snake.svg">
 </picture>
-
-  <style>
-  @media (max-width: 768px) {
-    div[align="center"] {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-    }
-    
-    img {
-      max-width: 100%;
-      height: auto;
-    }
-    
-    h3 {
-      text-align: center;
-    }
-  }
-</style>
-
