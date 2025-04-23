@@ -33,7 +33,6 @@
 
   [![blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5511975876596)
   [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=nicks12jp@gmail.com.com&su=Assunto%20do%20Email&body=Olá,%20quero%20entrar%20em%20contato!)
-  [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-da-silva-alves-0970a0327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 #
 
